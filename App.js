@@ -4,9 +4,9 @@ import Home from "./Screen/Home";
 
 export default function App() {
   return (
-    <SafeAreaView> 
+    <View> 
       <Home/>
-    </SafeAreaView>
+    </View>
     
   );
 }

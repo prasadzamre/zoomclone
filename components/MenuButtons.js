@@ -1,11 +1,10 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-export default function Header() {
+export default function MenuButtons() {
     return (
         <View>
-            <Text>Hey Are you looking for header</Text>
+            <Text>Hey ARe you looking for menu buttons?</Text>
         </View>
     )
 }
-
