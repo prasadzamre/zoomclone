@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { View, Text ,StyleSheet} from 'react-native'
 
 export default function SearchBar() {
     return (
@@ -8,3 +8,9 @@ export default function SearchBar() {
         </View>
     )
 }
+
+const styles = StyleSheet.create({
+container: {
+    
+}
+})
